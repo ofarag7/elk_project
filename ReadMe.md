@@ -9,3 +9,6 @@ Contains the Linux bash script and the Advanced Bash homework
 
 Network Diagrams
 Contains the diagrams for load balancer week 12 and elk project week 13
+
+Ansible Folder
+Conatains the YAML scripts from the week on cloud security
