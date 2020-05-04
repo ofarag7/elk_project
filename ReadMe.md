@@ -1,5 +1,5 @@
 Cloud Security and Virtualization Folder
-Containt the Azure command line steps
+Contains the Azure command line steps
 
 ELK Project Folder
 Contains the ELK Project Day 3 Activity
