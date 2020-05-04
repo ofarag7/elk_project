@@ -1,0 +1,11 @@
+echo $dt
+echo $machinetype
+echo $ipaddr
+echo $host
+echo $dnsinfo
+echo $mem
+echo $cpuinfo
+echo $diskinfo
+echo $loggedin
+echo $suid_files
+echo $topps
