@@ -1,0 +1,19 @@
+useradd sysd
+sudo usermod -u <new id> <username>
+change user group
+groupmod -g 3000 foo
+
+cat /etc/group
+
+sudo
+sudo usermod -a -G sudo hduser
+
+
+john ALL=(ALL:ALL) /usr/bin/apt-get, /usr/bin/less
+
+
+
+for i in {0..3}
+do
+  echo "Number: $i"
+done
